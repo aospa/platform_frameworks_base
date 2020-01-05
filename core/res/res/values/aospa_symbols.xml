@@ -74,4 +74,8 @@
          Should be set to dt2w max time / 2 when needed -->
     <java-symbol type="integer" name="config_singleTapDelay" />
 
+    <!-- Light / Regular style fonts -->
+    <java-symbol type="string" name="config_lightFontFamily" />
+    <java-symbol type="string" name="config_regularFontFamily" />
+
 </resources>
