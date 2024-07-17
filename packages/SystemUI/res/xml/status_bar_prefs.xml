@@ -133,6 +133,7 @@
     <!-- secure -->
 
     <com.android.systemui.tuner.ClockPreference
+        android:key="clock"
         android:icon="@drawable/ic_statusbar_clock"
         android:title="@string/tuner_time"
         android:summary="%s"
