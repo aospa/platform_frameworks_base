@@ -16,6 +16,24 @@
       "message": "Note that for AIDL devices, this can be fixed in the AIDL: https://git.halogenos.org/halogenOS/android_device_nothing_Spacewar/-/commit/af7cabd05a5318be2e7c4d793cbc7edbfdcd0902",
       "revId": "ad7c405aabe031d5d7b47de4d29596d0bda9a95e",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cbfc94cb_a25a3862",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2024-10-24T11:53:30Z",
+      "side": 1,
+      "message": "can easily be applied to hidl as well\n41988: phone1: fingerprint: Fix UDFPS enrollment and authentication | https://gerrit.aospa.co/c/AOSPA/android_device_nothing_phone1/+/41988",
+      "parentUuid": "3cb0f90e_d814babc",
+      "revId": "ad7c405aabe031d5d7b47de4d29596d0bda9a95e",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
