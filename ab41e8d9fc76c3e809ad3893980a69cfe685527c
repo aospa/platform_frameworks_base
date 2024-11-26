@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f44aeb78_4c098dfe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2024-11-26T05:40:50Z",
+      "side": 1,
+      "message": "Please split as done on uvite\nhttps://gerrit.aospa.co/c/AOSPA/android_frameworks_base/+/37215",
+      "revId": "ab41e8d9fc76c3e809ad3893980a69cfe685527c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
