@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df73d225_9fffdbf7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000895
+      },
+      "writtenOn": "2024-12-13T05:28:30Z",
+      "side": 1,
+      "message": "apparently required on op7 series, even with hidl fix omkar gave the udfps stops functioning except screen off udfps.",
+      "revId": "1be994bbb3fb05628a0f6f79ac65eeaae3a9ffcf",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
