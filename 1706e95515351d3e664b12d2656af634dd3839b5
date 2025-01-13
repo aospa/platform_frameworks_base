@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7a1fa900_f3e94b80",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2025-01-13T11:09:38Z",
+      "side": 1,
+      "message": "I have dropped the \"!mIsDeviceInPocket\" check within the \"shouldListenForFaceAssistant()\" function from the original commit as facesense isnt merged yet, we\u0027ll have to add that back in a separate commit once facesense is merged\n\n\n    private boolean shouldListenForFaceAssistant() {\n        BiometricAuthenticated face \u003d mUserFaceAuthenticated.get(getCurrentUser());\n        return mAssistantVisible\n                // There can be intermediate states where mKeyguardShowing is false but\n                // mKeyguardOccluded is true, we don\u0027t want to run face auth in such a scenario.\n                \u0026\u0026 (mKeyguardShowing \u0026\u0026 mKeyguardOccluded)\n                \u0026\u0026 !(face !\u003d null \u0026\u0026 face.mAuthenticated)\n                \u0026\u0026 !mUserHasTrust.get(getCurrentUser(), false) \u0026\u0026 !mIsDeviceInPocket;\n    }",
+      "revId": "1706e95515351d3e664b12d2656af634dd3839b5",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
