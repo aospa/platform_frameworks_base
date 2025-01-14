@@ -2919,7 +2919,7 @@ public class KeyguardUpdateMonitor implements TrustManager.TrustListener, Dumpab
      */
     @Deprecated
     public boolean shouldListenForFace() {
-        return getFaceAuthInteractor() != null && getFaceAuthInteractor().canFaceAuthRun();
+        return getFaceAuthInteractor() != null && getFaceAuthInteractor().canFaceAuthRun() && !mIsDeviceInPocket;
     }
 
 
