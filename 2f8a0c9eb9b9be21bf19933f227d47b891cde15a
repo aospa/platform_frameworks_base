@@ -16,6 +16,23 @@
       "message": "works on phone2",
       "revId": "2f8a0c9eb9b9be21bf19933f227d47b891cde15a",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca7fda78_60020b46",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2025-01-15T09:43:16Z",
+      "side": 1,
+      "message": "Doesn\u0027t break anything on a non richtap phone",
+      "revId": "2f8a0c9eb9b9be21bf19933f227d47b891cde15a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
