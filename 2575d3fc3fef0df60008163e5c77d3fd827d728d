@@ -34,6 +34,24 @@
       "parentUuid": "ee5ed2ef_628be967",
       "revId": "2575d3fc3fef0df60008163e5c77d3fd827d728d",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "47949ba0_b1fba91a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000465
+      },
+      "writtenOn": "2025-01-17T01:24:47Z",
+      "side": 1,
+      "message": "Well, I hate how it looks now. IMO either revert the bg back to normal or this.",
+      "parentUuid": "045f4ab4_0e10a1f0",
+      "revId": "2575d3fc3fef0df60008163e5c77d3fd827d728d",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
