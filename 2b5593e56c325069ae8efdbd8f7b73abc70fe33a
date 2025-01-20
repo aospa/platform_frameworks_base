@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aa0af688_b5683ef3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000468
+      },
+      "writtenOn": "2025-01-20T04:34:32Z",
+      "side": 1,
+      "message": "Useless without the changes in external/",
+      "revId": "2b5593e56c325069ae8efdbd8f7b73abc70fe33a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
