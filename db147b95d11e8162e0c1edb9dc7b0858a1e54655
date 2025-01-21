@@ -35,6 +35,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3077434c_2aadc2fb",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ea84aee9_3d21bc18",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "985d8362_be1809ee",
@@ -48,6 +66,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "add class/function desc now",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4b6c9137_b559aeb9",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "985d8362_be1809ee",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -69,6 +105,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "38ed40b5_7f7048a9",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "388e9e97_3f582c6f",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7356e2dd_05ef354f",
@@ -82,6 +136,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "add class/function desc now",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "41de2d75_a5ecd2ec",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7356e2dd_05ef354f",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -120,6 +192,42 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ef14c2d_2395736a",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "17b325e8_2b882cec",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "11c151bd_445adf87",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d86ce6b3_5f656ae9",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "472143c2_198ee288",
@@ -133,6 +241,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "use IllegalArgumentException",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2d8a5d6a_6d352690",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "472143c2_198ee288",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -171,6 +297,42 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3159af8f_c289e9f2",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e20d0971_f8021ead",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "05e55e21_c11599e8",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "68059f1f_f3cb990d",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d9e7b262_6d5f3b83",
@@ -184,6 +346,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "mention strength \nfor better logging\n\nmore like\nSlog.e(TAG, \"Invalid effect strength: \" + strength);",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dbc24c98_5aeaaff3",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d9e7b262_6d5f3b83",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -205,6 +385,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "48a8b9e7_c3f0b73f",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "78658bfa_27342bf6",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "65c92487_ec4d78d7",
@@ -222,6 +420,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9eb86d74_fab67dc3",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "65c92487_ec4d78d7",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "32e84f54_b741e6ff",
@@ -235,6 +451,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "can be final?",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "56b31222_9a60e329",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "32e84f54_b741e6ff",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -273,6 +507,42 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "900e84cb_2013bc3a",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df4651fd_2caa895b",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "46f38382_cde5c8df",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fbda8680_9afbdde0",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "06082df8_ca8ebe0b",
@@ -286,6 +556,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "no need",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8c12071a_69abc6b0",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "06082df8_ca8ebe0b",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -307,6 +595,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "52c870ec_d042228f",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "96f10bac_c44b26a8",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "93f8376f_063fa91c",
@@ -320,6 +626,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "no need, its already null?",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "505afc39_669a2b69",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "93f8376f_063fa91c",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -341,6 +665,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "defd63ba_4b619531",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "87264517_79024d2c",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "bb35f5e9_5037b1f9",
@@ -354,6 +696,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "add function/class desc",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0cea5cff_b2fcaa19",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bb35f5e9_5037b1f9",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -375,6 +735,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "105b2718_adc58886",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ff47a75b_3d108014",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cf92cf2e_48f05a20",
@@ -388,6 +766,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "add function/class desc",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8019ec3a_8eddbe9d",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cf92cf2e_48f05a20",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -409,6 +805,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "732a6163_c9ab1512",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2f1aa050_ddb7186f",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "28e6ace0_108ce5ca",
@@ -422,6 +836,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "use WeakReference",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c751b26_c6cceb09",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "28e6ace0_108ce5ca",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
@@ -443,6 +875,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5b36797d_7a7dac3d",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0b8135c7_0b5f09b6",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9b679cd7_bde280fe",
@@ -456,6 +906,24 @@
       "writtenOn": "2024-09-23T07:39:08Z",
       "side": 1,
       "message": "can remove synchronized\nif we make the whole function synchronized",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "620d3296_f09dac38",
+        "filename": "services/core/java/com/android/server/vibrator/RichTapVibratorService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-01-21T14:06:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9b679cd7_bde280fe",
       "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
