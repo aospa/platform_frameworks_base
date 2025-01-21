@@ -333,6 +333,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e794dc3f_caee53b6",
+        "filename": "core/java/android/os/RichTapVibrationEffect.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1000468
+      },
+      "writtenOn": "2025-01-21T14:17:22Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "68059f1f_f3cb990d",
+      "revId": "db147b95d11e8162e0c1edb9dc7b0858a1e54655",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d9e7b262_6d5f3b83",
