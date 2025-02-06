@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f98e37f6_ec8e3c9f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000092
+      },
+      "writtenOn": "2025-02-06T06:54:03Z",
+      "side": 1,
+      "message": "Probably missing authorship in https://gerrit.aospa.co/c/AOSPA/android_frameworks_base/+/42697",
+      "revId": "d46242ac9561076bc19ea34af2da3b18c1183874",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
