@@ -16,6 +16,23 @@
       "message": "https://i.postimg.cc/yNLLdmsN/Screenshot-20250211-101950-Messages.png",
       "revId": "52eb150ece35058140d9ddbd250b406dfc69dc9c",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9345fb97_8a21f147",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000779
+      },
+      "writtenOn": "2025-02-16T09:45:34Z",
+      "side": 1,
+      "message": "only issue -\u003e headsup notification appears on right instead center.",
+      "revId": "52eb150ece35058140d9ddbd250b406dfc69dc9c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
