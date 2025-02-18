@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2464dd9f_a7b54791",
+        "filename": "core/res/res/raw/certified_build_props.json",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000469
+      },
+      "writtenOn": "2025-02-18T15:56:30Z",
+      "side": 1,
+      "message": "nice",
+      "revId": "1fee54739d56d2b7ab2dbf658a9bd54a34702703",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ],
   "submitRequirementResults": []
 }
