@@ -16,6 +16,7 @@
 
 package com.android.server;
 
+import static android.os.BatteryManager.CHARGING_POLICY_DEFAULT;
 import static android.os.Flags.batteryServiceSupportCurrentAdbCommand;
 import static android.os.Flags.stateOfHealthPublic;
 
@@ -66,6 +67,7 @@ import android.util.Slog;
 import android.util.proto.ProtoOutputStream;
 
 import com.android.internal.app.IBatteryStats;
+import com.android.internal.lineage.health.HealthInterface;
 import com.android.internal.logging.MetricsLogger;
 import com.android.internal.util.DumpUtils;
 import com.android.server.am.BatteryStatsService;
@@ -137,6 +139,7 @@ public final class BatteryService extends SystemService {
     private static final int BATTERY_PLUGGED_NONE = OsProtoEnums.BATTERY_PLUGGED_NONE; // = 0
 
     private final Context mContext;
+    private HealthInterface mLineageHealthInterface;
     private final IBatteryStats mBatteryStats;
     BinderService mBinderService;
     private final Handler mHandler;
@@ -304,6 +307,16 @@ public final class BatteryService extends SystemService {
                         false, obs, UserHandle.USER_ALL);
                 updateBatteryWarningLevelLocked();
             }
+        } else if (phase == PHASE_BOOT_COMPLETED) {
+           HealthInterface lineageHealthInterface;
+            try {
+                lineageHealthInterface = HealthInterface.getInstance(mContext);
+            } catch (RuntimeException e) {
+                Slog.e(TAG, "Unable to get HealthInterface instance. Health service is not available.");
+                lineageHealthInterface = null;
+            }
+
+            mLineageHealthInterface = lineageHealthInterface;
         }
     }
 
@@ -481,6 +494,13 @@ public final class BatteryService extends SystemService {
         synchronized (mLock) {
             if (!mUpdatesStopped) {
                 mHealthInfo = info;
+                if (mLineageHealthInterface != null) {
+                    int status = mLineageHealthInterface.getChargingControlStatus();
+                    if (status != CHARGING_POLICY_DEFAULT) {
+                        mHealthInfo.chargingState = status;
+                    }
+                    Slog.i(TAG, "[Lineage] Charging control status: " + status);
+                }
                 // Process the new values.
                 processValuesLocked(false);
                 mLock.notifyAll(); // for any waiters on new info
