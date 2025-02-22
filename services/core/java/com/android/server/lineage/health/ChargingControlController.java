@@ -5,6 +5,8 @@
 
 package com.android.server.lineage.health;
 
+import static android.os.BatteryManager.CHARGING_POLICY_DEFAULT;
+
 import static com.android.server.lineage.health.Util.getTimeMillisFromSecondOfDay;
 import static com.android.server.lineage.health.Util.msToString;
 
@@ -452,6 +454,14 @@ public class ChargingControlController extends LineageHealthFeature {
         pw.println("  mIsControlCancelledOnce: " + mIsControlCancelledOnce);
         pw.println();
         mCurrentProvider.dump(pw);
+    }
+
+    public int getStatus() {
+        if (mCurrentProvider == null) {
+            return CHARGING_POLICY_DEFAULT;
+        }
+
+        return mCurrentProvider.getStatus();
     }
 
     /* Battery Broadcast Receiver */
