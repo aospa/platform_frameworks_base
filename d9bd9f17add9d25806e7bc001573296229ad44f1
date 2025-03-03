@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78bc567a_2dd2d8cf",
+        "filename": "packages/SystemUI/src/com/android/systemui/statusbar/phone/CentralSurfacesImpl.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 723,
+      "author": {
+        "id": 1001107
+      },
+      "writtenOn": "2025-03-03T14:35:23Z",
+      "side": 1,
+      "message": "Missing a `,` here.",
+      "range": {
+        "startLine": 723,
+        "startChar": 70,
+        "endLine": 723,
+        "endChar": 71
+      },
+      "revId": "d9bd9f17add9d25806e7bc001573296229ad44f1",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
