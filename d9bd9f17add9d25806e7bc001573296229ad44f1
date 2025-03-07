@@ -22,6 +22,29 @@
       },
       "revId": "d9bd9f17add9d25806e7bc001573296229ad44f1",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d07cf015_3ef04a32",
+        "filename": "packages/SystemUI/src/com/android/systemui/statusbar/policy/BurnInProtectionController.kt",
+        "patchSetId": 7
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 1001107
+      },
+      "writtenOn": "2025-03-07T18:52:42Z",
+      "side": 1,
+      "message": "This will only be true when `shiftCounter` is exactly a multiple of `period`, yielding a -1 mult almost always, resulting in shifting being done from the center to the left only, never to the right.",
+      "range": {
+        "startLine": 162,
+        "startChar": 23,
+        "endLine": 162,
+        "endChar": 56
+      },
+      "revId": "d9bd9f17add9d25806e7bc001573296229ad44f1",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
