@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "845063ad_b51c8b4f",
+        "filename": "sysprop/LineageHealthProperties.sysprop",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-05-31T09:03:14Z",
+      "side": 1,
+      "message": "do not rename lineage properties, everything related to lineage health is unchanged",
+      "revId": "b24005bd4f10e06e7392a5392adaa08b825f6540",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
