@@ -34,6 +34,24 @@
       "parentUuid": "845063ad_b51c8b4f",
       "revId": "b24005bd4f10e06e7392a5392adaa08b825f6540",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d9ff8b6_8b2705d7",
+        "filename": "sysprop/LineageHealthProperties.sysprop",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000541
+      },
+      "writtenOn": "2025-05-31T09:25:32Z",
+      "side": 1,
+      "message": "Done, but skip for now",
+      "parentUuid": "02a3b273_92ddc23b",
+      "revId": "b24005bd4f10e06e7392a5392adaa08b825f6540",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
